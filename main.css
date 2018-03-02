@@ -30,7 +30,19 @@ input {
 
 .addOption {
   margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   background-color: green;
+}
+
+.submit {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: orange;
 }
 
 html {
